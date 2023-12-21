@@ -1,4 +1,4 @@
-# Airport Algorithms - CS 225 Data Structures Final Project
+# Airport Algorithms - CS 225 Data Structures Final Project (Fall 2022)
 
 ## Developers: Rohan Gudipaty, Tyler Hecht, Will Otani, Swaroop Thammineni
 
